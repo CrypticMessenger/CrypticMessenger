@@ -13,6 +13,6 @@
 
 ## :trophy: My Github Stats <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticMessenger&show_icons=true&theme=tokyonight) <br>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="height:auto;width:30%">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="height:auto;width:50%">
 
 
