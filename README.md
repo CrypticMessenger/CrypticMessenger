@@ -9,7 +9,7 @@
 - #### :handshake: Let's get in touch
   <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:2020csb1072@iitrpr.ac.in"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="[mailto:2020csb1072@iitrpr.ac.in](https://www.instagram.com/vesthrax/)"> <img src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/vesthrax/"> <img src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
