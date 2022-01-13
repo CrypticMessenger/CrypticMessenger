@@ -3,7 +3,6 @@
 - #### :mortar_board: I am currently a Computer Science and engineering sophomore at IIT Ropar. 
 - #### :seedling: I am interested in Data Analytics and Web Development.
 - #### :eyes: I am currently learning to make websites more interactive and use APIs.
-- #### :art: I like to draw doodles , write stories, opinions and my wildest imaginations.
 - #### :computer: I am proficient in Python, C and C++.
 - #### :sparkles: Looking forward to collaborate.
 - #### :handshake: Let's get in touch
