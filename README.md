@@ -1,4 +1,4 @@
-![GitHub Logo](HeY.png)
+
 # :wave: Hey There !! I am <a href = "https://crypticmessenger.github.io/">Ankit .</a>
 - :mortar_board: I am currently a Computer Science and engineering sophomore at IIT Ropar.
 - :seedling: I am interested in Data Analytics and Web Development.
