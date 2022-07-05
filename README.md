@@ -2,7 +2,7 @@
 # :wave: Hey There !! I am <a href = "https://crypticmessenger.github.io/">Ankit .</a>
 - :mortar_board: I am currently a Computer Science and engineering sophomore at IIT Ropar.
 - :seedling: I am interested in Data Analytics and Web Development.
-- :eyes: I am currently learning to make websites more interactive and use APIs.
+- :eyes: I am currently learning to make websites more interactive.
 - :computer: I am proficient in Python, C and C++.
 - :sparkles: Looking forward to collaborate.
 - :handshake: Let's get in touch <a href="https://drive.google.com/file/d/1Ucl_Twrkich8SGp3wURV4-8kM4gbdc10/view?usp=sharing"> (Resume)</a> <br><br>
