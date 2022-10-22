@@ -1,6 +1,6 @@
 
 # :wave: Hey There !! I am <a href = "https://crypticmessenger.github.io/">Ankit .</a>
-- :mortar_board: I am currently a Computer Science and engineering sophomore at IIT Ropar.
+- :mortar_board: I am currently a Computer Science and engineering pre-final student at IIT Ropar.
 - :seedling: I am interested in Computer Vision, AR/VR and Web Development.
 - :eyes: I am currently learning to make websites more interactive.
 - :computer: I am proficient in Python, C and C++.
