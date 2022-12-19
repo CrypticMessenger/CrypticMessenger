@@ -1,7 +1,7 @@
 # :wave: Hey There !! I am Ankit .
 - :mortar_board: I am currently a Computer Science and engineering pre-final student at IIT Ropar.
-- :seedling: I am interested in Computer Vision, AR/VR and Web Development.
-- :eyes: I am currently learning to make websites more interactive.
+- :seedling: I am interested in Computer Vision, AR/VR, Web Development and deep learning.
+- :eyes: I am currently learning deep learning.
 - :computer: I am proficient in Python, C and C++.
 - :sparkles: Looking forward to collaborate.
 - :handshake: Let's get in touch <br><br>
