@@ -2,7 +2,7 @@
 - :mortar_board: I am currently a Computer Science and engineering pre-final student at IIT Ropar.
 - :seedling: I am interested in Computer Vision, AR/VR, Web Development and deep learning.
 - :eyes: I am currently diving "deep" into deep learning.
-- :computer: I am proficient in Python, C and C++.
+- :computer: I am proficient in Javascript,Python, C and C++.
 - :sparkles: Looking forward to collaborate.
 - :handshake: Let's get in touch <br><br>
   <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
