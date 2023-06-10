@@ -1,8 +1,8 @@
 # :wave: Hey There !! I am Ankit .
 - :mortar_board: I am currently a Computer Science and engineering pre-final student at IIT Ropar.
-- :seedling: I am interested in Computer Vision, AR/VR, deep learning, Web and App Development.
+- :seedling: I am interested in deep learning(NLP and CV), Web and App Development.
 - :eyes: I am currently diving "deep" into deep learning.
-- :computer: I am proficient in Javascript,Python,Java C and C++.
+- :computer: I am proficient in Javascript,Python,Java, C and C++.
 - :sparkles: Looking forward to collaborate.
 - :handshake: Let's get in touch <br><br>
   <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
