@@ -9,8 +9,8 @@
   <a href="mailto:2020csb1072@iitrpr.ac.in"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## :trophy: My Github Stats <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticMessenger&show_icons=true&theme=tokyonight) <br>
+<!--## :trophy: My Github Stats <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticMessenger&show_icons=true&theme=tokyonight) <br>-->
 
 <!-- 
 ## :robot: Languages and Tools:
