@@ -2,7 +2,7 @@
 - :mortar_board: CSE graduate from IIT Ropar.
 - :seedling: interested in tech x science
 - :eyes: diving deep into systems programming
-- :computer: I am proficient in Javascript, Python, Java, C and C++.
+- :computer: Concurrency Multithreading Go OpenMPI C C++ Python HPC
 - :sparkles: Looking forward to collaborate.
 - :handshake: Let's get in touch <br><br>
   <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
