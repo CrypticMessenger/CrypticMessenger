@@ -1,4 +1,5 @@
 # :wave: Hey There !! I am Ankit .
+- <a href="https://medium.com/@ankitsharma61016"> Medium Blog</a>
 - :mortar_board: CSE graduate from IIT Ropar.
 - :seedling: interested in tech x science
 - :eyes: diving deep into systems programming
